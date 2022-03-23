@@ -47,7 +47,7 @@ router.post("/admissions", async (req, res, next) => {
 
   const [senderEmail, senderPassword, langType] = [
     "Offerletter@navgurukul.org",
-    "*#Ng10#*",
+    "offer_letter22",
     "both",
   ];
 
